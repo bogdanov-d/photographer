@@ -165,7 +165,7 @@ svg *[stroke] { stroke: currentColor }
 	color: var(--color-light);
 	min-height: var(--input-height);
 	border-radius: var(--border-radius);
-	transition-duration: var(var(--transition-duration));
+	transition-duration: var(--transition-duration);
 	border: none;
 }
 
